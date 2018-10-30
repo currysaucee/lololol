@@ -1,0 +1,11 @@
+.idea
+.git
+.travis.yml
+LICENSE
+docker-compose.yml
+Dockerfile
+data*
+docs/
+make_doc.py
+media
+README.md

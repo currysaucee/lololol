@@ -1,0 +1,982 @@
+Creating test database for alias 'default'...
+ListCampaign
+System check identified no issues (0 silenced).
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<!DOCTYPE html><html lang="en"></html>
+above is inside the function
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<!DOCTYPE html><html lang="en"></html>
+above is inside the function
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<!DOCTYPE html><html lang="en"></html>
+above is inside the function
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p></p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+Destroying test database for alias 'default'...

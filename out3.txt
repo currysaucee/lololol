@@ -1,0 +1,1938 @@
+Creating test database for alias 'default'...
+ListCampaign
+System check identified no issues (0 silenced).
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/2e0db088-c8de-4a35-8680-8d8bb428fb0b.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/2e0db088-c8de-4a35-8680-8d8bb428fb0b.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/b6e0fc00-250c-4568-8788-1ed6c01ae482.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/b6e0fc00-250c-4568-8788-1ed6c01ae482.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/d3487f6b-7ab3-466e-9d68-d0e728c0e671.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/d3487f6b-7ab3-466e-9d68-d0e728c0e671.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/4246651c-6980-413e-87fa-693608cecce4.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/4246651c-6980-413e-87fa-693608cecce4.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/0a85f7df-4f60-470a-bfb1-25452ff5fdd3.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/0a85f7df-4f60-470a-bfb1-25452ff5fdd3.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/6b287364-baa4-4c14-bcd5-25c105aee31c.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/6b287364-baa4-4c14-bcd5-25c105aee31c.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<img src="http://localhost/en/tracker/e9960a94-223d-4f50-ac60-473db444d4db.png">
+it didnt go thru replacing
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html><html lang="en"></html><img src="http://localhost/en/tracker/e9960a94-223d-4f50-ac60-473db444d4db.png">
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<img src="http://localhost/en/tracker/9d06270d-aed3-400b-843c-a8a8990ca36c.png">
+it didnt go thru replacing
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html><html lang="en"></html><img src="http://localhost/en/tracker/9d06270d-aed3-400b-843c-a8a8990ca36c.png">
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html><html lang="en"></html>
+<img src="http://localhost/en/tracker/27ea2e06-1367-4301-9702-a569d01313f8.png">
+it didnt go thru replacing
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html><html lang="en"></html><img src="http://localhost/en/tracker/27ea2e06-1367-4301-9702-a569d01313f8.png">
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/c3d422b0-62d3-4dc3-b6d0-2ab41967d9e0.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/c3d422b0-62d3-4dc3-b6d0-2ab41967d9e0.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/db61990f-1d1c-4da3-9d1d-eb3c1ab4d84e.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/db61990f-1d1c-4da3-9d1d-eb3c1ab4d84e.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/f9806cea-ef9b-44af-87bb-54b1575d6e4b.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/f9806cea-ef9b-44af-87bb-54b1575d6e4b.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/257c1279-a0cd-4f8a-a68c-93181e6a8249.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/257c1279-a0cd-4f8a-a68c-93181e6a8249.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/665639d6-f7d9-4e00-8d38-798b55f8dcf1.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/665639d6-f7d9-4e00-8d38-798b55f8dcf1.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/2b5cd0ce-885d-4990-8052-980cd0966925.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/2b5cd0ce-885d-4990-8052-980cd0966925.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/db0635d5-ad0e-4f68-b871-134bce3eada2.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/db0635d5-ad0e-4f68-b871-134bce3eada2.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/652e1336-c093-4ef4-9f6b-236f0b6c1d1b.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/652e1336-c093-4ef4-9f6b-236f0b6c1d1b.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/278d3ef8-fc4b-4195-ba8c-f6d651326385.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/278d3ef8-fc4b-4195-ba8c-f6d651326385.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/9dddc8e7-a6f1-495f-bc8a-ac41589fb51b.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/9dddc8e7-a6f1-495f-bc8a-ac41589fb51b.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/0d01f3cd-f8a5-4778-8e4a-4a3eea5b7d81.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/0d01f3cd-f8a5-4778-8e4a-4a3eea5b7d81.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/12aff445-e9c6-43e6-b29b-4d3893151356.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/12aff445-e9c6-43e6-b29b-4d3893151356.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/a551b3ff-34c4-4b5a-806f-606266465f35.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/a551b3ff-34c4-4b5a-806f-606266465f35.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/c058b95b-65d5-4be3-b81b-f173636d126e.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/c058b95b-65d5-4be3-b81b-f173636d126e.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/47abba8c-f5aa-4b68-8869-41a9f1174f8f.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/47abba8c-f5aa-4b68-8869-41a9f1174f8f.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/f368143d-6b54-4b23-b40d-1eff9fa5b246.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/f368143d-6b54-4b23-b40d-1eff9fa5b246.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/d85f80bf-45ff-4ac8-8645-23a5c80183a2.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/d85f80bf-45ff-4ac8-8645-23a5c80183a2.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/84d5c564-d442-4fb6-929d-c9323151d8e4.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/84d5c564-d442-4fb6-929d-c9323151d8e4.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/dcf5fb08-3b5c-4394-b634-6f369c7dfa7c.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/dcf5fb08-3b5c-4394-b634-6f369c7dfa7c.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/2a952080-e53d-4700-a57f-7f7e0c29e36e.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/2a952080-e53d-4700-a57f-7f7e0c29e36e.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/3ba89bd7-c2cb-4421-94a4-e9f87c0e2388.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/3ba89bd7-c2cb-4421-94a4-e9f87c0e2388.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/c477015c-3adc-4c89-bdbe-cfe175148767.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/c477015c-3adc-4c89-bdbe-cfe175148767.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/833ef5d2-4a05-4509-9b34-7109ec4c17fe.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/833ef5d2-4a05-4509-9b34-7109ec4c17fe.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/da13f558-c0eb-41e3-9eea-c05f9af17162.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/da13f558-c0eb-41e3-9eea-c05f9af17162.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/e13736ea-a645-4ad6-a19b-50ea38cc1366.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>Goodbye!</p>
+        
+	<img src="http://localhost/en/tracker/e13736ea-a645-4ad6-a19b-50ea38cc1366.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/e061bc23-4f3e-4b1d-8596-e2a4502cafc7.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/e061bc23-4f3e-4b1d-8596-e2a4502cafc7.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/f3dcade1-1ade-4a3c-a070-935963cfa257.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	<img src="http://localhost/en/tracker/f3dcade1-1ade-4a3c-a070-935963cfa257.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/333ad812-0c8b-4f60-8286-fc242f2e143f.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	<img src="http://localhost/en/tracker/333ad812-0c8b-4f60-8286-fc242f2e143f.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/2896affd-dec9-41ee-ae2f-949480295fea.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	<img src="http://localhost/en/tracker/2896affd-dec9-41ee-ae2f-949480295fea.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/71f78d88-8763-405c-85f8-94292c1f1799.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>lorem ipsum</p>
+        
+	<img src="http://localhost/en/tracker/71f78d88-8763-405c-85f8-94292c1f1799.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p></p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/4709764b-6d1d-431c-a32c-264a001b77eb.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p></p>
+        
+	<img src="http://localhost/en/tracker/4709764b-6d1d-431c-a32c-264a001b77eb.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/2ce4b542-2c19-4c08-ba54-a80ddaa36632.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/2ce4b542-2c19-4c08-ba54-a80ddaa36632.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/5fd4317a-dee4-4665-b59f-61906dba217f.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/5fd4317a-dee4-4665-b59f-61906dba217f.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/47f752c7-4b9a-4bef-b0f7-1e9015fe0c71.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/47f752c7-4b9a-4bef-b0f7-1e9015fe0c71.png"></body>
+</html>
+dashboard
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/07223b54-3515-42f5-a389-4247314e0805.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/07223b54-3515-42f5-a389-4247314e0805.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/9d8e14f1-6a63-4e47-b220-dbc58c5c5e44.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/9d8e14f1-6a63-4e47-b220-dbc58c5c5e44.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/a4fd58b7-b83f-4220-b595-f56ae772bee6.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/a4fd58b7-b83f-4220-b595-f56ae772bee6.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/ab4cb7fa-0fb7-4948-92ca-bbec092ea0aa.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>click: {{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/ab4cb7fa-0fb7-4948-92ca-bbec092ea0aa.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/261cd339-a1cd-4d26-9026-705e791b2e29.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/261cd339-a1cd-4d26-9026-705e791b2e29.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/7f5c552c-3531-4d21-81d5-911a9ec6da00.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/7f5c552c-3531-4d21-81d5-911a9ec6da00.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/65792730-aadb-4265-95a9-36f7c2418816.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/65792730-aadb-4265-95a9-36f7c2418816.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/947f13cc-922f-487d-a8bb-382a82de8b13.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/947f13cc-922f-487d-a8bb-382a82de8b13.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/102520f8-5e6d-4864-b7a2-01bbad2f9eac.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/102520f8-5e6d-4864-b7a2-01bbad2f9eac.png"></body>
+</html>
+_make_email
+a new hope
+returned target_email.html_content is --------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	</body>
+</html>
+<img src="http://localhost/en/tracker/cf9fe360-efed-4aa2-97c8-5e8366e9d361.png">
+got come to replace tho
+after adding the email traker, new html_content is -----------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-webkit-text-size-adjust:none;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<meta name="HandheldFriendly" content="true"/>
+		<meta name="viewport" content="width=device-width; initial-scale=0.666667; maximum-scale=0.666667; user-scalable=0"/>
+		<meta name="viewport" content="width=device-width"/>
+		<title></title>
+	</head>
+
+	<body style="padding:0;margin:0 auto;width:100%;">
+		
+            <p>{{ landing_page_url }}</p>
+        
+	<img src="http://localhost/en/tracker/cf9fe360-efed-4aa2-97c8-5e8366e9d361.png"></body>
+</html>
+Destroying test database for alias 'default'...

@@ -1,0 +1,22 @@
+version: '2'
+
+services:
+  front:
+    image: atexio/mercure
+    restart: always
+    ports:
+      - 8000:8000
+    environment:
+      SECRET_KEY: 'h7W21wpzDjpKTvGXGNZ5IUH1fXKPjVXbJMFuVqNwzufAyHVkrXXDlqWsOrNy2o4MQBGOTH955QVJiw3rykrEiKC00gRzng72G8fpLo3iarfuhpOz4gXcGOr7hgjwcXu1RkvEmjLv6IahTOn6zF61CwRC8ufrFN5MC8YUfYLv1QbmanaXpXdCIlxPeHPBSRQj7N2sW4hn'
+      #django secret key (required)
+      URL: '10.0.2.15:81' #mecure url (required)
+      EMAIL_HOST: 'smtp.gmail.com'
+      EMAIL_PORT: 587
+      EMAIL_HOST_USER: 'jonathanau1999@gmail.com'
+      EMAIL_HOST_PASSWORD: 'Jonathan56628426'
+      EMAIL_USE_TLS: 'True'
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./data/database:/code/database
+      - ./data/media:/code/media
+      - ./data/migrations/phishing:/code/phishing/migrations
