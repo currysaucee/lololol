@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).ancestor(3)
 SECRET_KEY = 'mojlkazndlekznhvlkjtv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['*']
 
 # Application definition
